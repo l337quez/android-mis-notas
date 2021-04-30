@@ -6,3 +6,7 @@ todo lo relacionado con adnroid
 
 El bundle se guardara en /app/build/outpusts/bundle/debug
 https://www.youtube.com/watch?v=ztqueIf8Tvk
+
+
+#### Subir una aplicacion
+Debemos ir a google play console, luego ir a produccion crear una release
