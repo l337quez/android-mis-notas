@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=ztqueIf8Tvk
 </br>
 
 #### Firmar la App
+Hcemos clic derecho en el root proyect o en la carpeta principal del proyecto
 
 Almancen de Llaves
 
