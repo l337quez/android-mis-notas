@@ -3,9 +3,18 @@ todo lo relacionado con adnroid
 
 
 #### Generar un Bundle
+Para generar la aplicacion en formato Bundle que es lo nuevo y lo recomendado, hacemos click en Build en el panel superior, luego click
+en Build Bundles >> bundle.
 
-El bundle se guardara en /app/build/outpusts/bundle/debug
+</br>
+
+El bundle se guardara en /app/build/outpusts/bundle/debug 
+
+</br>
+
 https://www.youtube.com/watch?v=ztqueIf8Tvk
+
+</br>
 
 </br>
 
