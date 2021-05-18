@@ -45,3 +45,5 @@ Debemos ir a google play console, luego ir a produccion crear una release
 
 #### ver errores desde Google Play Console 
 En el sidebar en Android vitals >> Performance >> Crashes and ANRs
+
+otra parte es en Testing >> Pre-launch report >> Details
