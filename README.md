@@ -64,3 +64,14 @@ Debemos ir a google play console, luego ir a produccion crear una release
 En el sidebar en Android vitals >> Performance >> Crashes and ANRs
 
 otra parte es en Testing >> Pre-launch report >> Details
+
+</br>
+
+#### Encontrar bugs o chasheds 
+En el sidebar en Android vitals >> Performance >> Crashes and ANRs
+
+otra parte es en Testing >> Pre-launch report >> Details
+
+</br>
+
+https://www.youtube.com/watch?v=vAEAZPU7w-I
